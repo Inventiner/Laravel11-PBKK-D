@@ -57,9 +57,9 @@
 
         </div>
 
-    </section>
+    </section> --}}
 
-    <section class="py-10 md:py-16">
+    {{-- <section class="py-10 md:py-16">
 
         <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -111,80 +111,55 @@
 
         </div>
 
-    </section>
+    </section> --}}
 
     <section class="py-10 md:py-16">
 
-        <div class="container max-w-screen-xl mx-auto px-4">
+        <div class="container max-w-screen-xl mx-auto px-2">
 
             <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Education</h1>
+            <p class="font-normal text-gray-500 text-xs md:text-base mb-5">Below is a summary of the places I studied</p>
 
-            <p class="font-normal text-gray-500 text-xs md:text-base mb-20">Below is a summary of the places I studied</p>
-
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 <div class="bg-gray-50 px-8 py-10 rounded-md">
-                    <h4 class="font-medium text-gray-700 text-lg mb-4">2015 – 2016</h4>
+                    <h4 class="font-medium text-gray-700 text-lg mb-2">2022 – Now</h4>
 
-                    <p class="font-normal text-gray-500 text-md mb-4">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
+                    <p class="font-medium text-gray-600 text-base">Institut Teknologi Sepuluh Nopember</p>
+                    <p class="font-normal text-gray-500 text-md mb-4">Fakultas Teknologi Elektro dan Informatika Cerdas <br> S1 Teknik Informatika.</p>
 
                     <div class="relative">
-                        <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
-                        <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
+                        <a href="https://www.its.ac.id/">
+                            <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
+                            <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
+                        </a>
                     </div>
                 </div>
 
                 <div class="bg-gray-50 px-8 py-10 rounded-md">
-                    <h4 class="font-medium text-gray-700 text-lg mb-4">2015 – 2016</h4>
+                    <h4 class="font-semibold  text-gray-700 text-lg mb-2">2016 – 2022</h4>
 
-                    <p class="font-normal text-gray-500 text-md mb-4">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
+                    <p class="font-medium text-gray-600 text-base">PKBM SMI</p>
+                    <p class="font-normal text-gray-500 text-md mb-4">SMP - SMA</p>
 
                     <div class="relative">
-                        <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
-                        <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
+                        <a href="https://shinemercyinterculture.sch.id/">
+                            <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
+                            <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
+                        </a>
                     </div>
                 </div>
 
                 <div class="bg-gray-50 px-8 py-10 rounded-md">
-                    <h4 class="font-medium text-gray-700 text-lg mb-4">2015 – 2016</h4>
+                    <h4 class="font-medium text-gray-700 text-lg mb-2">2010 – 2016</h4>
 
-                    <p class="font-normal text-gray-500 text-md mb-4">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
-
-                    <div class="relative">
-                        <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
-                        <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-                    </div>
-                </div>
-
-                <div class="bg-gray-50 px-8 py-10 rounded-md">
-                    <h4 class="font-medium text-gray-700 text-lg mb-4">2015 – 2016</h4>
-
-                    <p class="font-normal text-gray-500 text-md mb-4">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
+                    <p class="font-medium text-gray-600 text-base">PKBM AELI</p>
+                    <p class="font-normal text-gray-500 text-md mb-4">SD</p>
 
                     <div class="relative">
-                        <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
-                        <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-                    </div>
-                </div>
-
-                <div class="bg-gray-50 px-8 py-10 rounded-md">
-                    <h4 class="font-medium text-gray-700 text-lg mb-4">2015 – 2016</h4>
-
-                    <p class="font-normal text-gray-500 text-md mb-4">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
-
-                    <div class="relative">
-                        <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
-                        <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-                    </div>
-                </div>
-
-                <div class="bg-gray-50 px-8 py-10 rounded-md">
-                    <h4 class="font-medium text-gray-700 text-lg mb-4">2015 – 2016</h4>
-
-                    <p class="font-normal text-gray-500 text-md mb-4">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
-
-                    <div class="relative">
-                        <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
-                        <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
+                        <a href="https://dapo.kemdikbud.go.id/sekolah/F9291F06B4F1B41AB884">
+                            <h6 class="font-semibold text-gray-500 text-md relative z-10">See the place here</h6>
+                            <span class="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -193,7 +168,7 @@
 
     </section>
 
-    <section class="py-10 md:py-16">
+    {{-- <section class="py-10 md:py-16">
 
         <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -205,9 +180,9 @@
 
         </div>
 
-    </section>
+    </section> --}}
 
-    <section class="py-10 md:py-16">
+    {{-- <section class="py-10 md:py-16">
 
         <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -261,9 +236,9 @@
             
         </div>
 
-    </section>
+    </section> --}}
 
-    <section class="py-10 md:py-16">
+    {{-- <section class="py-10 md:py-16">
 
         <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -287,9 +262,9 @@
 
         </div>
 
-    </section>
+    </section> --}}
 
-    <section class="py-10 md:py-16">
+    {{-- <section class="py-10 md:py-16">
 
         <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -343,7 +318,7 @@
 
         </div>
 
-    </section>
+    </section> --}} 
 
-    <footer class="py-10 md:py-16 mb-20 md:mb-40 lg::mb-52"> --}}
+    {{-- <footer class="py-10 md:py-16 mb-20 md:mb-40 lg::mb-52"> --}}
 </x-layout>
