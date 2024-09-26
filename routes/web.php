@@ -13,10 +13,9 @@ Route::get('/about', function () {
 });
 
 Route::get('/blogs', function () {
-    return view('blogs', ['title' => 'My Blogs', 'posts' => Post::getAllPost()]);
+    return view('blogs', ['title' => 'My Blogs', 'posts' => Post::All()]);
 });
 
-Route::get('/blogs/{slug}', function ($slug) {    
-    $post = Post::find($slug);
+Route::get('/blogs/{post:slug}', function (Post $post) {    
     return view('blog', ['title' => $post['title'], 'post' => $post]);
 });
