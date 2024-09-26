@@ -27,22 +27,22 @@ Currently the about me page is a little bit simple, I planned to add more detail
 
 ## Blogs Page
 Even though the blogs are still filled with dummy data, but it's already being handled by a model
-![Screenshot of Blogs Page](https://github.com/user-attachments/assets/36ab0e86-5b01-481d-8d9d-080785f7bbbf)
+![Screenshot of Blogs Page](https://github.com/user-attachments/assets/4fd937be-75fc-489c-b30e-8be1d662e13a)
 
 <p align="center"> Preview of the current Blogs Page </p>  
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/3bedaed2-2817-4e9d-88e4-75c204584157" alt="Mobile Preview of Blogs Page">
+    <img src="https://github.com/user-attachments/assets/dddad700-8ce1-431c-ac07-fac3004d5c9a" alt="Mobile Preview of Blogs Page">
 </p>
 <p align="center"> Mobile Device Preview of the current Work-In-Progress Blogs Page </p>
 
 ## Individual Blog Page
-![Screenshot of Blogs Page](https://github.com/user-attachments/assets/dcb7526e-a46b-4383-9f06-14faeb9a20f7)
+![Screenshot of Blogs Page](https://github.com/user-attachments/assets/5043e979-14bd-48f7-b9c1-dad37182a843)
 
 <p align="center"> Preview of the current Individual Blog Page </p>  
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/ef48ef6a-c99f-4145-ab83-3fdaec76882e" alt="Mobile Preview of Individual Blog Page">
+    <img src="https://github.com/user-attachments/assets/574b744c-3a52-49eb-abff-7b679257d1a4" alt="Mobile Preview of Individual Blog Page">
 </p>
 <p align="center"> Mobile Device Preview of the current Individual Blog Page </p>
 
