@@ -1,5 +1,5 @@
 <x-layout>
-    <x-slot:title>{{ $title }}</x-slot>
+    <x-slot:title><h2><a href="/blogs" class="font-medium text-blue-600 hover:underline">&lsaquo; Back to blogs</a></h2></x-slot>
     <article class="py-2 max-w-screen-md">
         <h2 class="mb-1 text-3xl tracking-tight font-bold text-gray-900">{{ $post['title'] }}</h2>
         <div class="text-base text-gray-600">
